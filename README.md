@@ -57,5 +57,5 @@ Achievements in the field of software development:
 
 	1st place in Game Development at Microsoft Imagine Cup South Africa 2010 (3D multiplayer spacecraft combat)
 
-	//Batch generated multiple PDF documents and distributed via email using nodejs
+	
 
