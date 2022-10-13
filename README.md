@@ -1,7 +1,7 @@
-Name: Jason Welsford 
+#Name: Jason Welsford 
 
 
-Qualifications and education: 
+##Qualifications and education: 
 
 National Diploma: Information Technology 
 
@@ -11,7 +11,7 @@ Cisco CCNA
 
  
 
-Experience in coding languages and technologies: 
+##Experience in coding languages and technologies: 
 
 C# - 10 years 
 
@@ -49,7 +49,7 @@ Node.js
 
 
 
-Achievements in the field of software development:
+##Achievements in the field of software development:
 
 10 years total working experience in industry
 
